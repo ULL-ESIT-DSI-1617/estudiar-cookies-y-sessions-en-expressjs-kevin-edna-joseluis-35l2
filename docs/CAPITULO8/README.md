@@ -1,1 +1,1 @@
-# Capítulo 8: Cookies y las Sessions en ExpressJS
+# Capítulo 8: Administración de cookies en ExpressJS
