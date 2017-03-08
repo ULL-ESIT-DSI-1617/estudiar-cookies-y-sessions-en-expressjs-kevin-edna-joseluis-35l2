@@ -5,7 +5,7 @@ var shell = require('gulp-shell');
 
 // Tarea ejemplo1 -------------------------------------------------------
 
-gulp.task('ejemplo2', function(){
+gulp.task('ejemplo1', function(){
 	return gulp.src('.').pipe(shell(['node ejemplo_cap8.js']));
 });
 
