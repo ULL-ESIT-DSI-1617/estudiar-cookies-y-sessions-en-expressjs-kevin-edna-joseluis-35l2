@@ -19,10 +19,10 @@ Por ahora sabemos qué son las cookies y cómo hacer una aplicación Express. En
 2. Navegamos hasta el directorio de la aplicación,
 3. Ejecutamos el siguiente comando:
 ~~~sh
-    $ npm install coockie-parser
+    $ npm install coocie-parser
 ~~~
 
-[coockie-parser](https://github.com/expressjs/cookie-parser)
+[cookie-parser](https://github.com/expressjs/cookie-parser)
 
 
 ## Usando Cookie-Parser
