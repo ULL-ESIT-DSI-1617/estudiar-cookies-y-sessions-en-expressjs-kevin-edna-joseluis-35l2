@@ -44,9 +44,13 @@ Kevin Estévez Expósito
 
 [Despliege del libro en Gitbook]() - Edna Liliana Galiano Camacho
 
+[Despliege del libro en Gitbook]() - José Luis Doblado González
+
 [Despliegue del libro en Iaas]() - Kevin Estévez Expósito
 
 [Despliegue del libro en Iaas]()- Edna Liliana Galiano Camacho
+
+[Despliegue del libro en Iaas]()- José Luis Doblado González
 
 
 ## Enlace descripción Práctica
