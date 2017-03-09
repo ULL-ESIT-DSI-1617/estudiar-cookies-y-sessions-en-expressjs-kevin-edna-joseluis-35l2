@@ -16,7 +16,7 @@ var auth = function(req, res, next) {
 };
 
 // Login endpoint
-app.get('/login', function (req, res) {                         // https://dsi-opelu.c9users.io/login?username=pepe&password=pepespassword
+app.get('/login', function (req, res) {
     if (!req.query.username || !req.query.password) {
         res.send('Login Incorrecto');    
     } else if(req.query.username === "pepe" || req.query.password === "pepespassword") {
@@ -38,4 +38,4 @@ app.get('/content', auth, function (req, res) {
 });
 
 app.listen(8081);
-console.log("Servidor corriendo en: http://localhost:8081");
+console.log("Servidor escuchando en el puerto: 8081");
