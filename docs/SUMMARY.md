@@ -43,3 +43,12 @@
     * [Guía de direccionamiento](docs/CAPITULO7/CAPITULO7.md#guía-de-direccionamiento)
     * [Utilización del middleware](docs/CAPITULO7/CAPITULO7.md#utilización-del-middleware)
     * [Documentación de Router](docs/CAPITULO7/CAPITULO7.md#documentación-de-router)
+
+* [Administración de cookies en Express](docs/CAPITULO7/CAPITULO8.md)
+    * [Qué es una cookie](docs/CAPITULO8/CAPITULO8.md#qué-es-una-cookie)
+    * [Qué es Express](docs/CAPITULO8/CAPITULO8.md#qué-es-express)
+    * [Instalación](docs/CAPITULO8/CAPITULO8.md#instalación)
+    * [Usando Cookie-Parser](docs/CAPITULO8/CAPITULO8.md#usando-cookie-parser)
+    * [Sintaxis](docs/CAPITULO8/CAPITULO8.md#sintaxis)
+    * [Cómo establecer el tiempo de expiración de las cookies](docs/CAPITULO8/CAPITULO8.md#cómo-establecer-el-tiempo-de-expiración-de-las-cookies)
+    * [Cómo eliminar cookies existentes](docs/CAPITULO8/CAPITULO8.md#cómo-eliminar-cookies-existentes)
