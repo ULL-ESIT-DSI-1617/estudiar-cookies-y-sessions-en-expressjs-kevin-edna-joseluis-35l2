@@ -51,4 +51,10 @@
     * [Usando Cookie-Parser](docs/CAPITULO8/CAPITULO8.md#usando-cookie-parser)
     * [Sintaxis](docs/CAPITULO8/CAPITULO8.md#sintaxis)
     * [Cómo establecer el tiempo de expiración de las cookies](docs/CAPITULO8/CAPITULO8.md#cómo-establecer-el-tiempo-de-expiración-de-las-cookies)
-    * [Cómo eliminar cookies existentes](docs/CAPITULO8/CAPITULO8.md#cómo-eliminar-cookies-existentes)
+    * [Cómo eliminar cookies existentes](docs/CAPITULO8/CAPITULO8.md#cómo-eliminar-cookies-existentesg)
+    
+* [Autenticación y autorización mediante sesiones en Express](docs/CAPITULO7/CAPITULO9.md)
+    * [Instalación](docs/CAPITULO9/CAPITULO9.md#instalación)
+    * [Usando Express-Session](docs/CAPITULO9/CAPITULO9.md#usando-express-session)
+    * [Explicación del código](docs/CAPITULO9/CAPITULO9.md#explicación-del-código)
+    
