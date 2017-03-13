@@ -40,7 +40,7 @@ Kevin Estévez Expósito
 
 [Despliegue del libro en gh-pages]()
 
-[Despliegue del libro en Gitbook]() - Kevin Estévez Expósito
+[Despliegue del libro en Gitbook](https://alu0100821390.gitbooks.io/estudiar-cookies-y-sessions-en-expressjs-kevin-ed/content/) - Kevin Estévez Expósito
 
 [Despliege del libro en Gitbook]() - Edna Liliana Galiano Camacho
 
