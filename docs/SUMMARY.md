@@ -1,7 +1,5 @@
 # Índice
 
-* [Introducción](README.md)
-
 * [Contenido del libro](README.md)
 
 * [MarkDown](CAPITULO1/CAPITULO1.md)
