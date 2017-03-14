@@ -48,7 +48,7 @@ Kevin Estévez Expósito
 
 [Despliegue del libro en Iaas](http://10.6.128.96:8084/) - Kevin Estévez Expósito
 
-[Despliegue del libro en Iaas]()- Edna Liliana Galiano Camacho
+[Despliegue del libro en Iaas](http://10.6.129.247:8082/)- Edna Liliana Galiano Camacho
 
 [Despliegue del libro en Iaas]()- José Luis Doblado González
 
