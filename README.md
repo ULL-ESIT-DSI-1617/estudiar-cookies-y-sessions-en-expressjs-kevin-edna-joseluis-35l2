@@ -42,9 +42,9 @@ Kevin Estévez Expósito
 
 [Despliegue del libro en Gitbook](https://alu0100821390.gitbooks.io/estudiar-cookies-y-sessions-en-expressjs-kevin-ed/content/) - Kevin Estévez Expósito
 
-[Despliege del libro en Gitbook]() - Edna Liliana Galiano Camacho
+[Despliege del libro en Gitbook](https://ednagc.gitbooks.io/estudiar-cookies-y-sessions-en-express/content/) - Edna Liliana Galiano Camacho
 
-[Despliege del libro en Gitbook]() - José Luis Doblado González
+[Despliege del libro en Gitbook](https://alu0100767001.gitbooks.io/estudiar-cookies-y-rutas-en-espressjs/content/) - José Luis Doblado González
 
 [Despliegue del libro en Iaas](http://10.6.128.96:8084/) - Kevin Estévez Expósito
 
