@@ -38,7 +38,7 @@ Kevin Estévez Expósito
 
 ## Libro 
 
-[Despliegue del libro en gh-pages]()
+[Despliegue del libro en gh-pages](https://ull-esit-dsi-1617.github.io/estudiar-cookies-y-sessions-en-expressjs-kevin-edna-joseluis-35l2/)
 
 [Despliegue del libro en Gitbook](https://alu0100821390.gitbooks.io/estudiar-cookies-y-sessions-en-expressjs-kevin-ed/content/) - Kevin Estévez Expósito
 
